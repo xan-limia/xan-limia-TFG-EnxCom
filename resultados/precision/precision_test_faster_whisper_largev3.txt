@@ -1,0 +1,154 @@
+filename: ./audio/control_calidad/calidad_1_con_blanco_005.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  La punta está bien y mide 12 milímetros. Medidas de los diámetros son 3 milímetros, 5 milímetros, el vástago está roto. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_1_con_blanco_01.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  La punta está bien y mide 12 milímetros. Medidas de los diámetros son 3 milímetros, 5 milímetros, el vástago está roto. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_1_con_blanco_025.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  La punta está bien en el 12 milímetros, debido a que los diámetros son 3 milímetros, 5 milímetros, el vástago está roto. 
+ precision: 77.77777777777779 
+filename: ./audio/control_calidad/calidad_1_con_blanco_05.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  La punta estaría en el medio de ese millón, debido a que nos quedamos con 3 milímetros, 5 milímetros y va hasta los octavos. 
+ precision: 50.0 
+filename: ./audio/control_calidad/calidad_1_con_blanco_075.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  - 
+ precision: 0.0 
+filename: ./audio/control_calidad/calidad_1_con_blanco_1.mp3 
+ only original text: La punta está bien y mide 12 milímetros. Medidas de los diámetros son: 3 milímetros, 5 milímetros. El vástago está roto 
+ only response text:  - 
+ precision: 0.0 
+
+
+filename: ./audio/control_calidad/calidad_2_con_blanco_005.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_2_con_blanco_01.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_2_con_blanco_025.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  La segunda cara tiene 4 y la tercera 23. El vaso agonido 45 millones. La punta y el mango salieron de efectivo. 
+ precision: 76.47058823529412 
+filename: ./audio/control_calidad/calidad_2_con_blanco_05.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  La segunda cara tiene 4, y la tercera 23, y va según el 45 milímetros. La punta y el mando salieron de sección. 
+ precision: 76.47058823529412 
+filename: ./audio/control_calidad/calidad_2_con_blanco_075.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  La segunda cara tiene 4, la tercera de 1,5, el resto de 1,45, la cinta y el mango salieron de la cinta. 
+ precision: 58.82352941176471 
+filename: ./audio/control_calidad/calidad_2_con_blanco_1.mp3 
+ only original text: La segunda cara tiene 4 y la tercera 23. El vástago mide 45 milímetros. La punta y el mango salieron defectuosos 
+ only response text:  - 
+ precision: 0.0 
+
+
+filename: ./audio/control_calidad/calidad_3_con_blanco_005.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros. Se ve todo correcto, menos el vástago que tiene varios defectos. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_3_con_blanco_01.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros. Se ve todo correcto, menos el vástago que tiene varios defectos. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_3_con_blanco_025.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4  milímetros y el de la segunda de 9  milímetros. Se ve todo correcto, mientras el vástago que tiene varios efectos. 
+ precision: 90.9090909090909 
+filename: ./audio/control_calidad/calidad_3_con_blanco_05.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros. Se ve todo correcto, mientras el básico que tiene varios espacios. 
+ precision: 86.36363636363636 
+filename: ./audio/control_calidad/calidad_3_con_blanco_075.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4.000 metros y el de la segunda es de 9.000 metros, pero yo puedo probar todas las que tienen varios diámetros. 
+ precision: 50.0 
+filename: ./audio/control_calidad/calidad_3_con_blanco_1.mp3 
+ only original text: El diámetro de la primera cara es de 4 milímetros y el de la segunda de 9 milímetros, se ve todo correcto, menos el vástago que tiene varios defectos 
+ only response text:  El diámetro de la primera cara es de 4.000 metros y de la segunda de 9.000 metros. El diámetro de la primera cara es de 4.000 metros y de la segunda de 9.000 metros. 
+ precision: 40.909090909090914 
+
+
+filename: ./audio/control_calidad/calidad_4_con_blanco_005.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  Se han encontrado defectos en la punta y el mango. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_4_con_blanco_01.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  Se han encontrado defectos en la punta y el mango. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_4_con_blanco_025.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  Se han encontrado defectos en la punta y el mango. 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_4_con_blanco_05.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  que han encontrado en diferentes lugares en el tiempo y en marzo. 
+ precision: 50.0 
+filename: ./audio/control_calidad/calidad_4_con_blanco_075.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  que han encontrado dichas posibilidades y demás 
+ precision: 30.0 
+filename: ./audio/control_calidad/calidad_4_con_blanco_1.mp3 
+ only original text: Se han encontrado defectos en la punta y el mango 
+ only response text:  ya no hay que entrar en la calle, no hay que entrar en la calle 
+ precision: 20.0 
+
+
+filename: ./audio/control_calidad/calidad_5_con_blanco_005.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_5_con_blanco_01.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ precision: 100.0 
+filename: ./audio/control_calidad/calidad_5_con_blanco_025.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta tiene algún problemita, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto es todo mismo. 
+ precision: 90.0 
+filename: ./audio/control_calidad/calidad_5_con_blanco_05.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta tiene algún problema, los diálogos de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo lo mismo. 
+ precision: 85.0 
+filename: ./audio/control_calidad/calidad_5_con_blanco_075.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta tiene la luz de la luz, las caras son 3 milímetros, 3 milímetros, 3 milímetros, 3 milímetros. 
+ precision: 45.0 
+filename: ./audio/control_calidad/calidad_5_con_blanco_1.mp3 
+ only original text: La punta tiene algún problemilla, los diámetros de las caras son 3 milímetros, 6 milímetros y 15 milímetros, el resto todo bien 
+ only response text:  La punta del avión está abierta y el avión se encuentra en la zona de la zona de la zona de la zona de la zona de la zona. 
+ precision: 25.0 
+
+ 
+filename: ./audio/control_calidad/calidad_6_con_blanco_005.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mango está roto, la punta mide 5 milímetros, medidas de las caras, primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros, el vástago mide 34 milímetros, pero tiene varios efectos. 
+ precision: 95.83333333333334 
+filename: ./audio/control_calidad/calidad_6_con_blanco_01.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mango está roto, la punta mide 5 milímetros, medidas de las caras, primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros, el vástago mide 34 milímetros, pero tiene varios efectos. 
+ precision: 95.83333333333334 
+filename: ./audio/control_calidad/calidad_6_con_blanco_025.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mango está roto, la punta mide 5 milímetros, movidas de las carnes, primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros, el vástago mide 34 milímetros, pero tiene varios efectos. 
+ precision: 87.5 
+filename: ./audio/control_calidad/calidad_6_con_blanco_05.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mango escarrote, la punta mide 5 milímetros, mido de las caras, primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros, el vástago mide 24 milímetros, pero tiene pan y sal. 
+ precision: 75.0 
+filename: ./audio/control_calidad/calidad_6_con_blanco_075.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mango está roto, la punta de los 5 milímetros no vive relajada, primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros y baja los medios de 4 milímetros, pero tiene pan y salida. 
+ precision: 66.66666666666666 
+filename: ./audio/control_calidad/calidad_6_con_blanco_1.mp3 
+ only original text: El mango está roto. La punta mide 5 milímetros, medidas de las caras: primera 5 milímetros, segunda 9 milímetros, tercera 3 milímetros. El vástago mide 34 milímetros, pero tiene varios defectos 
+ only response text:  El mayo está roto, la fiesta es de 5 minutos, el día es de la tarde, la mañana 5 minutos, la mañana 9 minutos, la hora 3 minutos, el rastro de la fiesta es de 4 minutos, la fiesta es de 5 minutos. 
+ precision: 33.33333333333333 
