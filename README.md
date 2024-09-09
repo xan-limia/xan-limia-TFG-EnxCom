@@ -18,7 +18,7 @@ Xan Limia García
 
     A continuación detállase como poñer en funcionamento o noso sistema.
 
-    git clone git@github.com:xan-limia/tfg\_xan\_RL\_externo.git
+    git clone https://github.com/xan-limia/xan-limia-TFG-EnxCom
 
     
 Execución do contorno servidor e cliente:
