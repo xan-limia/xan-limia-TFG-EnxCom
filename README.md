@@ -54,6 +54,7 @@ Definicion dos arquivos do repositorio:
     textToSpeech.py -> módulo que se encarga de reproducir polo altavoz do cliente o texto recibido
 
     simple_client.py -> cliente sen módulo despertador que realiza un numero determinado de probas
+    context_test.py -> cliente que executa un arquivo de audio diferente, pensado para as probas de contexto
 
     estadísticas_concurrencia.py -> ficheiro para analizar datos
     graficas.py -> ficheiro para analizar datos
