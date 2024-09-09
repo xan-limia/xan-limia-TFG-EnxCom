@@ -46,12 +46,34 @@ grafica_barras(clientes, minimos, medios, maximos, desviacion_min, desviacion_me
 
 # Grafica de puntos con el tiempo de cada petición
 
-clientes = 5 
+clientes = 5
 
-with open(f'./resultados/concurrencia_medium/{clientes}clientes/test{clientes}x50_1.txt', 'r') as file:
+markersize = 3
+
+with open(f'./resultados/contexto/testContexto{clientes}x100_cliente1.txt', 'r') as file:
     numeros = [float(line.strip()) for line in file]
 
-plt.plot(numeros, marker='o', linestyle='', color='b', label='Valores')
+plt.plot(numeros, marker='o', linestyle='', color='b', markersize = markersize, label='Cliente 1')
+
+with open(f'./resultados/contexto/testContexto{clientes}x100_cliente2.txt', 'r') as file:
+    numeros = [float(line.strip()) for line in file]
+
+plt.plot(numeros, marker='o', linestyle='', color='r', markersize = markersize, label='Cliente 2')
+
+with open(f'./resultados/contexto/testContexto{clientes}x100_cliente3.txt', 'r') as file:
+    numeros = [float(line.strip()) for line in file]
+
+plt.plot(numeros, marker='o', linestyle='', color='g', markersize = markersize, label='Cliente 3')
+
+with open(f'./resultados/contexto/testContexto{clientes}x100_cliente4.txt', 'r') as file:
+    numeros = [float(line.strip()) for line in file]
+
+plt.plot(numeros, marker='o', linestyle='', color='cyan', markersize = markersize, label='Cliente 4')
+
+with open(f'./resultados/contexto/testContexto{clientes}x100_cliente5.txt', 'r') as file:
+    numeros = [float(line.strip()) for line in file]
+
+plt.plot(numeros, marker='o', linestyle='', color='purple', markersize = markersize, label='Cliente 5')
 
 plt.title(f'Evolución del tiempo de petición: {clientes} clientes')
 plt.xlabel('Nº Petición')

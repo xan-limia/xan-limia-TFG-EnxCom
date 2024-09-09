@@ -2,10 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 clientes = 5
-peticiones = 50
+peticiones = 100
 pruebas = 5
 
-carpeta = f'./resultados/concurrencia_medium/{clientes}clientes'
+carpeta = f'./resultados/contexto'
 
 def leer_numeros(ruta):
     with open(ruta, 'r') as archivo:
@@ -16,6 +16,8 @@ def estadisticas(numeros):
     valor_minimo = min(numeros)
     valor_maximo = max(numeros)
     valor_medio = sum(numeros) / len(numeros)
+    print("Minimo", np.min(numeros),"Maximo", np.max(numeros))
+    print("Media", np.mean(numeros),"Desviacion estándar", np.std(numeros))
     return valor_minimo, valor_medio, valor_maximo
 
 def calcular_medias_estadisticas():
@@ -25,7 +27,7 @@ def calcular_medias_estadisticas():
     numeros_totales = []  
 
     for i in range(1, pruebas+1):
-        ruta = f'{carpeta}/test{clientes}x{peticiones}_{i}.txt'
+        ruta = f'{carpeta}/testContexto{clientes}x{peticiones}_cliente{i}.txt'
         numeros = leer_numeros(ruta)
         if numeros:
             valor_minimo, valor_medio, valor_maximo = estadisticas(numeros)
@@ -36,15 +38,15 @@ def calcular_medias_estadisticas():
         else:
             print(f"{ruta} no tiene numeros")
 
-    # Calcular las medias de los valores mínimos, medios y máximos
-    media_minimos = np.mean(minimos)
-    media_medios = np.mean(medios)
-    media_maximos = np.mean(maximos)
+        # Calcular las medias de los valores mínimos, medios y máximos
+        media_minimos = np.mean(minimos)
+        media_medios = np.mean(medios)
+        media_maximos = np.mean(maximos)
 
-    # Calcular las desviaciones estándar
-    std_minimos = np.std(minimos)
-    std_medios = np.std(medios)
-    std_maximos = np.std(maximos)
+        # Calcular las desviaciones estándar
+        std_minimos = np.std(minimos)
+        std_medios = np.std(medios)
+        std_maximos = np.std(maximos)
 
     return (media_minimos, std_minimos), (media_medios, std_medios), (media_maximos, std_maximos), numeros_totales
 

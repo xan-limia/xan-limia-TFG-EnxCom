@@ -48,8 +48,6 @@ async def client():
         # Esperamos, duracion do ficheiro de audio antes de enviar a peticion
         time.sleep(12)
 
-        await connect_to_server(recorder)
-
         text_bytes = await connect_to_server(recorder)
 
         text = text_bytes.decode(conf.CODIFICATION)
