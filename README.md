@@ -2,6 +2,6 @@
 
 Traballo Fin de Grao 2024 
 
-Uso de coñecemento externo na aprendizaxe por reforzo dun comportamento visual en robótica móvil 
+Arquitectura con captura de datos distribuída e computación centralizada aplicada á tradución e xestión de voz a texto
 
 Xan Limia García
